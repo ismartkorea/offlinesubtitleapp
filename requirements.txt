@@ -1,0 +1,6 @@
+soundcard
+soundfile
+transformers
+torch
+sentencepiece
+pywin32
